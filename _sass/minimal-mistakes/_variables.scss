@@ -47,26 +47,31 @@ $type-size-8: 0.625em !default; // ~10px
    Colors
    ========================================================================== */
 
-$gray: #877d79 !default;
-$dark-gray: mix(#2D211C, $gray, 40%) !default;
-$darker-gray: mix(#2D211C, $gray, 60%) !default;
-$light-gray: mix(#2D211C, $gray, 50%) !default;
-$lighter-gray: mix(#2D211C, $gray, 90%) !default;
+$gray: #808080 !default;
+$dark-gray: mix(#000, $gray, 40%) !default;
+$darker-gray: mix(#000, $gray, 60%) !default;
+$light-gray: mix(#fff, $gray, 50%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+
+$salmon: #FF9999 !default;
+$pink: #FFE0E0 !default,
+$purple-pink: #FF99FF !default;
+$brown-gray: #806E6E !default;
 
 $background-color: #fff !default;
-$code-background-color: #fafafa !default;
-$code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 35%) !default;
+$code-background-color: gray !default;
+$code-background-color-dark: $pink !default;
+$text-color: #000 !default;
+$muted-text-color: $gray !default;
 $border-color: $gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: $gray !default;
-$success-color: #3fa63f !default;
+$primary-color: $salmon !default;
+$success-color: $purple-pink !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #954BF9 !default;
+$info-color: $purple-pink !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
@@ -106,8 +111,8 @@ $link-color: mix(#000, $info-color, 15%) !default;
 $link-color-hover: #205E53 !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$masthead-link-color-hover: $purple-pink !default;
+$navicon-link-color-hover: $pink !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;

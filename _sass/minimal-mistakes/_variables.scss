@@ -62,7 +62,7 @@ $background-color: #fff !default;
 $code-background-color: $gray !default;
 $code-background-color-dark: $pink !default;
 $text-color: #000 !default;
-$muted-text-color: $gray !default;
+$muted-text-color: $brown-gray !default;
 $border-color: $gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
@@ -73,7 +73,7 @@ $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: $purple-pink !default;
 $focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
+$active-color: $gray !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -107,12 +107,12 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 15%) !default;
-$link-color-hover: #205E53 !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
+$link-color: $brown-gray !default;
+$link-color-hover: $purple-pink !default;
+$link-color-visited: $pink !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: $purple-pink !default;
-$navicon-link-color-hover: $pink !default;
+$navicon-link-color-hover: $purple-pink !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;

@@ -54,12 +54,12 @@ $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $salmon: #FF9999 !default;
-$pink: #FFE0E0 !default,
+$pink: #FFE0E0 !default;
 $purple-pink: #FF99FF !default;
 $brown-gray: #806E6E !default;
 
 $background-color: #fff !default;
-$code-background-color: gray !default;
+$code-background-color: $gray !default;
 $code-background-color-dark: $pink !default;
 $text-color: #000 !default;
 $muted-text-color: $gray !default;

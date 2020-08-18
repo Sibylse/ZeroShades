@@ -9,7 +9,7 @@ comments: true
 This is the grey area. Before we eliminate all shades of grey, we discuss here the situation with shades of grey. What about the optimization tasks and employed formalisms when we do not apply constraints to binary values? 
 
 {% for post in site.categories.grey %}
-  {% unless hidden == true %}
+  {% unless post.hidden == true %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}

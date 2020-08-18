@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "The grey area"
+  - title: "The Binary Zone"
+    url: /binary/
+  - title: "The Grey Area"
     url: /grey/
   # - title: "Sample Posts"
   #   url: /year-archive/

@@ -107,10 +107,12 @@ analytics:
 # Site Author
 author:
   name             : "Sibylle Hess"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authorPic.jpg"
   bio              : "Dada miner"
   location         : "Eindhoven, the Netherlands"
   email            : "s.c.hess@tue.nl"
+  twitter:
+    username       :"Ilsebyl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

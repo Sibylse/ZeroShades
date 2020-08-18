@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Zero Shades of Grey"
 title_separator          : "-"
-name                     : "Sibylle Hess"
+name                     : #"Sibylle Hess"
 description              : "A dada miner blog about optimization with binary constraints."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,12 +107,11 @@ analytics:
 # Site Author
 author:
   name             : "Sibylle Hess"
-  avatar           : "/assets/images/authorPic.jpg"
+  avatar           : "/assets/images/authorPic.png"
   bio              : "Dada miner"
   location         : "Eindhoven, the Netherlands"
   email            : "s.c.hess@tue.nl"
-  twitter:
-    username       :"Ilsebyl"
+  twitter          : "Ilsebyl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -7,6 +7,6 @@ comments: true
 ---
 
 This is the binary zone. Here we discuss objectives which require hard yes- or no-decisions. 
-{% for post in site.posts %}
+{% for post in site.binary.posts %}
   {% include archive-single.html %}
 {% endfor %}

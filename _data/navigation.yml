@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "Publications"
+    url: /pubs/
   - title: "The Binary Zone"
     url: /binary/
   - title: "The Grey Area"
     url: /grey/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

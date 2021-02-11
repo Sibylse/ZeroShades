@@ -7,7 +7,10 @@ comments: false
 ---
 
 ## Journal Publications:
-* Sibylle Hess, Katharina Morik, and Nico Piatkowski. "The PRIMPING routine — Tiling through proximal alternating linearized minimization." Data Mining and Knowledge Discovery (DAMI), pp. 1090-1131, 2017.
+<details>
+  <summary>The PRIMPING routine</summary>
+  Sibylle Hess, Katharina Morik, and Nico Piatkowski. "The PRIMPING routine — Tiling through proximal alternating linearized minimization." Data Mining and Knowledge Discovery (DAMI), pp. 1090-1131, 2017.
+</details>
 
 ## Conference Publications:
 * Sibylle Hess, and Wouter Duivesteijn. "k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities." In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML), pp. 257-273, 2019.

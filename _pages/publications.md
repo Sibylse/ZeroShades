@@ -13,11 +13,10 @@ comments: false
 </details>
 
 ## Conference Publications:
-_Sibylle Hess, and Wouter Duivesteijn_  
-k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities  
-***ECML, 2019***
+
 <details>
-  <summary> </summary>
+  <summary><i>Sibylle Hess, and Wouter Duivesteijn @ ECML 2019</i> <br>
+   k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities </summary>
   Sibylle Hess, Katharina Morik, and Nico Piatkowski. "The PRIMPING routine — Tiling through proximal alternating linearized minimization." Data Mining and Knowledge Discovery (DAMI), pp. 1090-1131, 2017.
 </details>
 Sibylle Hess, Wouter Duivesteijn, Philipp Honysz, and Katharina Morik. "The SpectACl of nonconvex clustering: a spectral approach to density-based clustering." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 3788-3795, 2019.  

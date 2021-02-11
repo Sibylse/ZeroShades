@@ -13,6 +13,7 @@ comments: false
 </details>
 
 ## Conference Publications:
-* Sibylle Hess, and Wouter Duivesteijn. "k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities." In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML), pp. 257-273, 2019.
+* Sibylle Hess, and Wouter Duivesteijn.  
+"k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities." In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML), pp. 257-273, 2019.
 * Sibylle Hess, Wouter Duivesteijn, Philipp Honysz, and Katharina Morik. "The SpectACl of nonconvex clustering: a spectral approach to density-based clustering." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 3788-3795, 2019.
 * Sibylle Hess, Nico Piatkowski, and Katharina Morik. "The trustworthy pal: Controlling the false discovery rate in boolean matrix factorization." In Proceedings of the 2018 SIAM International Conference on Data Mining (SDM), pp. 405-413, 2018.

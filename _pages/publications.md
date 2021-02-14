@@ -35,7 +35,7 @@ comments: false
     suitable for the application of clustering methods which work on a transformation of the input data such as <i>SpectACl</i>.
   </p>
 </details>
-[arXiV](https://arxiv.org/abs/1907.02343){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-030-46150-8_16){: .btn .btn--success .btn--small}
+[arXiV](https://arxiv.org/abs/1907.02343){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-030-46150-8_16){: .btn .btn--success .btn--small} [Python code](https://github.com/Sibylse/SpecialK){: .btn .btn--success .btn--small}
 <details>
   <summary> 
     The SpectACl of nonconvex clustering: a spectral approach to density-based clustering <br> 
@@ -60,7 +60,7 @@ comments: false
     probability an artifact of noise.
   </p>
 </details>
-[arXiV](https://arxiv.org/abs/1907.00697){: .btn .btn--primary .btn--small} [publication](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.46){: .btn .btn--success .btn--small}
+[arXiV](https://arxiv.org/abs/1907.00697){: .btn .btn--primary .btn--small} [publication](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.46){: .btn .btn--success .btn--small}  [C++ code and Julia script](https://bitbucket.org/Sibylse/trustpal/src/master/){: .btn .btn--success .btn--small}
 <details>
   <summary>C-salt: Mining class-specific alterations in boolean matrix factorization <br>
     <i>Sibylle Hess and Katharina Morik @ ECML PKDD </i>
@@ -75,7 +75,7 @@ comments: false
       those developing a particular disease from those who do not.
   </p>
  </details>
-[arXiV](https://arxiv.org/abs/1906.09907){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-319-71249-9_33){: .btn .btn--success .btn--small}
+[arXiV](https://arxiv.org/abs/1906.09907){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-319-71249-9_33){: .btn .btn--success .btn--small} [C++ code](https://bitbucket.org/Ilsebyl/c-salt/src/master/){: .btn .btn--success .btn--small}
 
 ## Books
 <details>

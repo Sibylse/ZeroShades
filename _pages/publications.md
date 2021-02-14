@@ -11,6 +11,7 @@ comments: false
   <summary>The PRIMPING routine</summary>
   Sibylle Hess, Katharina Morik, and Nico Piatkowski. "The PRIMPING routine — Tiling through proximal alternating linearized minimization." Data Mining and Knowledge Discovery (DAMI), pp. 1090-1131, 2017.
 </details>
+[arXiV](https://arxiv.org/abs/1906.09722){: .btn .btn--primary .btn--small}
 
 ## Conference Publications:
 

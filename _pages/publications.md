@@ -81,7 +81,7 @@ comments: false
 <details>
   <summary>
     A Mathematical Theory of Making Hard Decisions: Model Selection and Robustness of Matrix Factorization with Binary Constraints <br>
-    <i>Sibylle Hess, 2018</i>
+    <i>Sibylle Hess, 2019</i>
   </summary>
   <p>This is my dissertation which contains a survey about matrix factorizations subject to binary constraints and the connections to popular clustering methods. In this scope, I present my work on the <i>Primping Routine</i>, <i>Spectacl</i>, <i>The Trustworthy Pal</i> and <i>C-Salt</i>. Big shout-out to the <a> href="https://sfb876.tu-dortmund.de/index.html">SFB 876</a>@TU Dortmund and my supervisor Katharina Morik.</p>
 </details>

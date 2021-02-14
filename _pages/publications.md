@@ -35,19 +35,29 @@ comments: false
     suitable for the application of clustering methods which work on a transformation of the input data such as <i>SpectACl</i>.
   </p>
 </details>
-[arXiV](https://arxiv.org/abs/1907.02343){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-030-46150-8_16){: .btn .btn--success .btn--small} [Python code](https://github.com/Sibylse/SpecialK){: .btn .btn--success .btn--small}
+[arXiV](https://arxiv.org/abs/1907.02343){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-030-46150-8_16){: .btn .btn--success .btn--small} [Python code](https://github.com/Sibylse/SpecialK){: .btn .btn--warning .btn--small}
 <details>
   <summary> 
     The SpectACl of nonconvex clustering: a spectral approach to density-based clustering <br> 
     <i> Sibylle Hess, Wouter Duivesteijn, Philipp Honysz, and Katharina Morik @ AAAI 2019</i>
   </summary> 
   <p>
-    This paper fills a long standing theoretical gap, showing why the application of $k$-means in Spectral Clustering is not only practically but also 
+    This paper fills a long standing theoretical gap, showing why the application of <i>k</i>-means in Spectral Clustering is not only practically but also 
     theoretically justified. This insight led to the proposal of a novel robust and feasible algorithm <i>SpectACl</i>. <i>SpectACl</i> is able to 
     outperform more advanced and theoretically more expressive approaches which learn the similarity matrix simultaneously with the clustering.
   </p>
 </details>
 [arXiV](https://arxiv.org/abs/1907.00680){: .btn .btn--primary .btn--small} [publication](https://ojs.aaai.org/index.php/AAAI/article/view/4265){: .btn .btn--success .btn--small}
+<details>
+  <summary>
+  The relationship of DBSCAN to matrix factorization and spectral clustering <br>
+  <i>Erich Schubert, Sibylle Hess and Katharina Morik @ LWDA 2018 </i>
+  </summary>
+  In this paper, we explore the not obvious relationships between the density-based clustering of DBSCAN and the minimum-cut based clustering by Spectral Clustering, which in turn can be formalized as a matrix factorization task. 
+</details>
+</details>
+[publication](http://ceur-ws.org/Vol-2191/paper38.pdf){: .btn .btn--success .btn--small}
+
 <details>
   <summary>
     The trustworthy pal: Controlling the false discovery rate in boolean matrix factorization <br>
@@ -60,7 +70,7 @@ comments: false
     probability an artifact of noise.
   </p>
 </details>
-[arXiV](https://arxiv.org/abs/1907.00697){: .btn .btn--primary .btn--small} [publication](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.46){: .btn .btn--success .btn--small}  [C++ code and Julia script](https://bitbucket.org/Sibylse/trustpal/src/master/){: .btn .btn--success .btn--small}
+[arXiV](https://arxiv.org/abs/1907.00697){: .btn .btn--primary .btn--small} [publication](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.46){: .btn .btn--success .btn--small}  [C++ code and Julia script](https://bitbucket.org/Sibylse/trustpal/src/master/){: .btn .btn--warning .btn--small}
 <details>
   <summary>C-salt: Mining class-specific alterations in boolean matrix factorization <br>
     <i>Sibylle Hess and Katharina Morik @ ECML PKDD </i>
@@ -75,7 +85,16 @@ comments: false
       those developing a particular disease from those who do not.
   </p>
  </details>
-[arXiV](https://arxiv.org/abs/1906.09907){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-319-71249-9_33){: .btn .btn--success .btn--small} [C++ code](https://bitbucket.org/Ilsebyl/c-salt/src/master/){: .btn .btn--success .btn--small}
+[arXiV](https://arxiv.org/abs/1906.09907){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/chapter/10.1007/978-3-319-71249-9_33){: .btn .btn--success .btn--small} [C++ code](https://bitbucket.org/Ilsebyl/c-salt/src/master/){: .btn .btn--warning .btn--small}
+
+<details>
+  <summary>
+    SHrimp: Descriptive Patterns in a Tree <br>
+    <i>Sibylle Hess, Nico Piatkowski and Katharina Morik @ LWDA 2014 </i>
+  </summary>
+  My first paper, submitted before I got my diploma in Computer Science. It's proposing an efficient tree-structure to traverse a set of frequent itemsets, in order to decide quickly if a candidate itemset could be interesting or not. Interestingness is hereby defined by the information-theoretic measure of interestingness known from the method <i>Krimp</i>. 
+</details>
+[publication](https://pure.tue.nl/ws/files/125071574/paper30.pdf){: .btn .btn--success .btn--small}
 
 ## Books
 <details>

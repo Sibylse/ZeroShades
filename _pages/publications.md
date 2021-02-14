@@ -15,7 +15,7 @@ comments: false
   <p>
   The Primping Routine introduces a novel optimization procedure for the combinatorial problem of Boolean Matrix Factorization (BMF), based on recent advances in nonconvex optimization. The proposed procedure has been the first to enable the highly parallel implementation of a BMF algorithm on Graphics Processing Units (GPUs), replacing the so far used heuristic procedures. Furthermore, a minimum description length based criterion is introduced which enables an accurate automatic determination of the number of clusters. The introduced proximal operator for binary optimization has been extended for integer optimization in the scope of estimating exponential families 
 <a href="https://eldorado.tu-dortmund.de/bitstream/2003/36877/1/Dissertation_Piatkowski.pdf">(Piatkowski, 2018)</a>.
-   <\p>
+   </p>
 </details>
 [arXiV](https://arxiv.org/abs/1906.09722){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/article/10.1007/s10618-017-0508-z){: .btn .btn--success .btn--small}
 

@@ -53,8 +53,9 @@ comments: false
   The relationship of DBSCAN to matrix factorization and spectral clustering <br>
   <i>Erich Schubert, Sibylle Hess and Katharina Morik @ LWDA 2018 </i>
   </summary>
+  <p>
   In this paper, we explore the not obvious relationships between the density-based clustering of DBSCAN and the minimum-cut based clustering by Spectral Clustering, which in turn can be formalized as a matrix factorization task. 
-</details>
+  </p>
 </details>
 [publication](http://ceur-ws.org/Vol-2191/paper38.pdf){: .btn .btn--success .btn--small}
 

@@ -5,8 +5,8 @@ date:   2019-08-14
 mathjax: true
 hidden: true
 ---
-Ok, so you probably know about matrix multiplication, or you probably have  multplied matrices at some point in your life. Yet, maybe you considered matrix multiplication as just something technical, something where you just have to do this multiplication scheme and then you get the result and you're done. Well, I think there is actually more beauty in it that what you learn about it at university. So here, let's try to feel the matrix multiplication.
+Ok, so this blog will be about matrix factorization. Factorization means that we are given the whole and we want to decompose it in easier parts. But, in order to being able to decompose, we also need to know how to construct the whole from its parts. This construction part is in this case the matrix multiplication. I'd guess that you probably know about matrix multiplication, that you might have an idea how to multiply two matrices. You might remember this seemingly overly complicated matrix multiplication scheme of "row-times-column". But matrix multiplication has actually more to offer than this. In fact, there is another way to compute a matrix multiplication, which actually gives meaning to the act in which two matrices are multiplied with each other.
 
-Before we delve into the esoterics of matrix multiplication, let's have a little recap  about how this  worked again.
+But before we delve into all that, let's have a little recap what the basics of matrix factorizations were again.
 # Matrix Multiplication - the Basics
 

@@ -1,6 +1,6 @@
 ---
 title:  "Tutorial on Matrix Factorization with Binary Constraints"
-layout: single
+layout: home
 permalink: /tut/
 author_profile: false
 comments: true

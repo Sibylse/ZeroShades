@@ -4,5 +4,6 @@ layout: single
 permalink: /tut/
 author_profile: false
 comments: true
+breadcrumbs: true
 ---
 Blablabla

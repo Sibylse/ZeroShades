@@ -1,7 +1,7 @@
 ---
 title:  "Teaching"
 layout: archive
-permalink: /pubs/
+permalink: /teaching/
 author_profile: true
 comments: true
 ---

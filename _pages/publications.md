@@ -16,7 +16,7 @@ comments: false
   Broccoli extends the numerical optimization used for Boolean matrix factorizations (cf. <i>the Primping routine, the Trustworthy Pal</i> and <i>C-Salt</i>) to biclusterings. The biclustering model is a tri-factorization of the data into two outer binary matrices indicating observation- and feature-clusters and a middle real-valued matrix, called the core matrix. Unlike in Boolean matrix factorization, the biclustering tri-factorization does not require the approximation of the matrix product in another algebra. We have exploited this fact with our optimization objective, which follows (like our Boolean matrix factorization optimization schemes) the penalized approach, where the binary constraints are relaxed but nonbinary values are penalized. However, the proposed objective optimizes not only the factor matrices, but also the penalization weights. This way, the penalization weights gradually increase throughout the optimization - arriving at binary matrices at convergence. 
    </p>
 </details>
-[publication](https://link.springer.com/article/10.1007/s10618-021-00787-z){: .btn .btn--success .btn--small} [Pytorch code](https://github.com/Sibylse/Broccoli){: .btn .btn--warning .btn--small}
+[publication](https://link.springer.com/article/10.1007/s10618-021-00787-z){: .btn .btn--success .btn--small} [Pytorch code](https://github.com/Sibylse/Broccoli){: .btn .btn--warning .btn--small} [talk](https://recorder-v3.slideslive.com/?share=47344&s=23dbd1bf-d84e-4cb2-8d58-5d40ce599895){: .btn .btn--info .btn--small}
 
 <details>
   <summary>

@@ -9,6 +9,17 @@ comments: false
 ## Journal Publications:
 <details>
   <summary>
+    BROCCOLI: overlapping and outlier-robust biclustering through proximal stochastic gradient descent <br>
+    <i>Sibylle Hess, Gianvito Pio, Michiel Hochstenbach, and Michelangelo Ceci @ Data Mining and Knowledge Discovery (DAMI) 2021</i>
+  </summary>
+  <p>
+  Broccoli extends the numerical optimization used for Boolean matrix factorizations (cf. <i>the Primping routine, the Trustworthy Pal</i> and <i>C-Salt</i>) to biclusterings. The biclustering model is a tri-factorization of the data into two outer binary matrices indicating observation- and feature-clusters and a middle real-valued matrix, called the core matrix. Unlike in Boolean matrix factorization, the biclustering tri-factorization does not require the approximation of the matrix product in another algebra. We have exploited this fact with our optimization objective, which follows (like our Boolean matrix factorization optimization schemes) the penalized approach, where the binary constraints are relaxed but nonbinary values are penalized. However, the proposed objective optimizes not only the factor matrices, but also the penalization weights. This way, the penalization weights gradually increase throughout the optimization - arriving at binary matrices at convergence. 
+   </p>
+</details>
+[publication](https://link.springer.com/article/10.1007/s10618-021-00787-z){: .btn .btn--success .btn--small} [Pytorch code](https://github.com/Sibylse/Broccoli){: .btn .btn--warning .btn--small}
+
+<details>
+  <summary>
     The PRIMPING routine — Tiling through proximal alternating linearized minimization <br>
     <i>Sibylle Hess, Katharina Morik, and Nico Piatkowski @ Data Mining and Knowledge Discovery (DAMI) 2017</i>
   </summary>

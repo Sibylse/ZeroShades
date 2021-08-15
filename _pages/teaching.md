@@ -12,6 +12,18 @@ comments: true
   </summary>
   <p>
   </p>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=yIWNOktZ3kQ
+" target="_blank"><img src="http://img.youtube.com/vi/yIWNOktZ3kQ/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=z-Hc0vtgQog
+" target="_blank"><img src="http://img.youtube.com/vi/z-Hc0vtgQog/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AeYInW-Z63w
+" target="_blank"><img src="http://img.youtube.com/vi/AeYInW-Z63w/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mupvSmwKnf4
+" target="_blank"><img src="http://img.youtube.com/vi/mupvSmwKnf4/0.jpg" 
+alt="Video 4" width="240" height="180" border="10" /></a>
 </details>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yIWNOktZ3kQ
 " target="_blank"><img src="http://img.youtube.com/vi/yIWNOktZ3kQ/0.jpg" 

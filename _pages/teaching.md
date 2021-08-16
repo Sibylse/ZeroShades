@@ -58,8 +58,8 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 <details>
   <summary>
     Optimization <br>
+    <i>FONC & SONC - numerical optimization - convexity - gradients</i>
   </summary>
-  <i>FONC & SONC - numerical optimization - convexity - gradients</i>
   <p>Part 1: FONC & SONC</p>
   <ul>
         <li>Unconstrained optimization objectives</li>
@@ -104,8 +104,8 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 <details>
   <summary>
     Regression <br>
+    <i>regression with basis functions - bias-variance tradeoff - cross validation</i>
   </summary>
-  <i>regression with basis functions - bias-variance tradeoff - cross validation</i>
   <p>Part 1: The Regression Objective</p>
   <ul>
         <li>Formal regression task definition</li>
@@ -145,8 +145,8 @@ alt="Video 3" width="240" height="180" border="10" /></a>
 <details>
   <summary>
     Regularization in Regression <br>
+    <i>regression in high dimensional feature spaces -  ridge regression - Lasso</i>
   </summary>
-  <i>regression in high dimensional feature spaces -  ridge regression - Lasso</i>
   <p>Part 1: p larger n</p>
   <ul>
         <li>Determining the set of global minimizers by SVD</li>
@@ -188,8 +188,8 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 <details>
   <summary>
     Recommender Systems and Dimensionality Reduction <br>
+    <i>matrix factorization - matrix completion - PCA</i>
   </summary>
-  <i>matrix factorization - matrix completion - PCA</i>
   <p>Part 1: The Rank-r Matrix Factorization Problem</p>
   <ul>
         <li>Summarizing user behavior via a matrix product</li>
@@ -230,4 +230,51 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 </details>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_RecSys_PCA.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_RecSys_PCA_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_RecSys_PCA_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_RecSys_PCA.ipynb){: .btn .btn--warning .btn--small} 
+
+<details>
+  <summary>
+    k-means Clustering<br>
+    <i>within-cluster-scatter - k-means as matrix factorization - alternating minimization</i>
+  </summary>
+  <p>Part 1: The k-means Objective</p>
+  <ul>
+        <li>The cluster model of k-means</li>
+        <li>The k-means objective to minimize the within-cluster-scatter</li>
+        <li>The k-means objective is equivalent to minimizing the distance of points to their closest centroid</li>
+        <li>Lloyds' algorithm for the optimization of k-means</li>
+    </ul>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=fB0tFX7k5T8
+" target="_blank"><img src="http://img.youtube.com/vi/fB0tFX7k5T8/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: k-means as a Matrix Factorization</p>
+  <ul>
+        <li>Indicating clusters by a binary matrix</li>
+        <li>Computing the centroids in matrix notation</li>
+        <li>The k-means objective as a constrained matrix factorization problem</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dOh2hY23hK0
+" target="_blank"><img src="http://img.youtube.com/vi/dOh2hY23hK0/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: k-means Optimization via Block-Coordinate Descent</p>
+  <ul>
+        <li>Centroids are the minimizes of the k-means objective when fixing the cluster assignments</li>
+        <li>Assigning points to the clusters with closest centroid minimizes the k-means objective when we fix the centroids</li>
+        <li>Lloyds' algorithm as block-coordinate descent</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eJxr55ESqx4
+" target="_blank"><img src="http://img.youtube.com/vi/eJxr55ESqx4/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+  <p>Part 4: Notebook</p>
+  <ul>
+        <li>Visualization of k-means' optimization</li>
+        <li>Effect of initialization</li>
+        <li>k-means as matrix factorization</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=X-geBBKTgZI
+" target="_blank"><img src="http://img.youtube.com/vi/X-geBBKTgZI/0.jpg" 
+alt="Video 4" width="240" height="180" border="10" /></a>
+</details>
+
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_kMeans.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_kMeans_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_kMeans_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_kmeans.ipynb){: .btn .btn--warning .btn--small} 
+
 

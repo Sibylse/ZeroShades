@@ -26,4 +26,4 @@ alt="Video 3" width="240" height="180" border="10" /></a>
 alt="Video 4" width="240" height="180" border="10" /></a>
 </details>
 
-[slides](/assets/documents/LinearAlgebra.pdf){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/article/10.1007/s10618-017-0508-z){: .btn .btn--success .btn--small} [C++ code](https://bitbucket.org/np84/paltiling/src/master/){: .btn .btn--warning .btn--small}
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/LinearAlgebra.pdf){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/article/10.1007/s10618-017-0508-z){: .btn .btn--success .btn--small} [C++ code](https://bitbucket.org/np84/paltiling/src/master/){: .btn .btn--warning .btn--small}

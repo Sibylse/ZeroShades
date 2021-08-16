@@ -142,7 +142,7 @@ alt="Video 3" width="240" height="180" border="10" /></a>
 
 <details>
   <summary>
-    Rgularization in Regression <br>
+    Regularization in Regression <br>
   </summary>
   <p>Part 1: p larger n</p>
   <ul>
@@ -169,7 +169,6 @@ alt="Video 2" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ahxEMgBe-RU
 " target="_blank"><img src="http://img.youtube.com/vi/ahxEMgBe-RU/0.jpg" 
 alt="Video 3" width="240" height="180" border="10" /></a>
-</details>
   <p>Part 4: Lasso</p>
   <ul>
         <li>The Lasso objective</li>

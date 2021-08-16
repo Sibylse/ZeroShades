@@ -140,3 +140,48 @@ alt="Video 3" width="240" height="180" border="10" /></a>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Regression.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Regression_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Regression_PELi_S.pdf){: .btn .btn--success .btn--small}
 
+<details>
+  <summary>
+    Rgularization in Regression <br>
+  </summary>
+  <p>Part 1: p larger n</p>
+  <ul>
+        <li>Determining the set of global minimizers by SVD</li>
+        <li>Python implementation</li>
+    </ul>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=ewZXca3WANM
+" target="_blank"><img src="http://img.youtube.com/vi/ewZXca3WANM/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: Sparse Regression</p>
+  <ul>
+        <li>The sparse regression objective</li>
+        <li>Relaxing the sparse regression objective</li>
+        <li>Lp-norm regularization</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3EG58QLzT1s
+" target="_blank"><img src="http://img.youtube.com/vi/3EG58QLzT1s/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: Ridge Regression</p>
+  <ul>
+        <li>The ridge regression objective</li>
+        <li>The minimizer of ridge regression</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ahxEMgBe-RU
+" target="_blank"><img src="http://img.youtube.com/vi/ahxEMgBe-RU/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+</details>
+  <p>Part 4: Lasso</p>
+  <ul>
+        <li>The Lasso objective</li>
+        <li>The coordinate descent optimization of Lasso</li>
+        <li> Comparison of L1 and L2 regularization </li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ptdgweBCiHw
+" target="_blank"><img src="http://img.youtube.com/vi/ptdgweBCiHw/0.jpg" 
+alt="Video 4" width="240" height="180" border="10" /></a>
+</details>
+
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Regularization.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Regularization_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Regularization_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_Regularization.ipynb){: .btn .btn--warning .btn--small} 
+
+
+

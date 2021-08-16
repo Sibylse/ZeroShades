@@ -9,7 +9,7 @@ I created the following lectures for a Bachelor level course about data mining a
 <details>
   <summary>
     Linear Algebra - Recap <br>
-    <i>Some description</i>
+    <i>vectors - matrices - matrix multiplication - vector and matrix norms - SVD</i>
   </summary>
   <p>Part 1: Vectors and Matrices</p>
   <ul>
@@ -59,6 +59,7 @@ alt="Video 4" width="240" height="180" border="10" /></a>
   <summary>
     Optimization <br>
   </summary>
+  <i>FONC & SONC - numerical optimization - convexity - gradients</i>
   <p>Part 1: FONC & SONC</p>
   <ul>
         <li>Unconstrained optimization objectives</li>
@@ -104,6 +105,7 @@ alt="Video 4" width="240" height="180" border="10" /></a>
   <summary>
     Regression <br>
   </summary>
+  <i>regression with basis functions - bias-variance tradeoff - cross validation</i>
   <p>Part 1: The Regression Objective</p>
   <ul>
         <li>Formal regression task definition</li>
@@ -144,6 +146,7 @@ alt="Video 3" width="240" height="180" border="10" /></a>
   <summary>
     Regularization in Regression <br>
   </summary>
+  <i>regression in high dimensional feature spaces -  ridge regression - Lasso</i>
   <p>Part 1: p larger n</p>
   <ul>
         <li>Determining the set of global minimizers by SVD</li>
@@ -186,6 +189,7 @@ alt="Video 4" width="240" height="180" border="10" /></a>
   <summary>
     Recommender Systems and Dimensionality Reduction <br>
   </summary>
+  <i>matrix factorization - matrix completion - PCA</i>
   <p>Part 1: The Rank-r Matrix Factorization Problem</p>
   <ul>
         <li>Summarizing user behavior via a matrix product</li>

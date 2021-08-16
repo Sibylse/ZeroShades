@@ -11,11 +11,11 @@ I created the following lectures for a Bachelor level course about data mining a
     Linear Algebra - Recap <br>
     <i>Some description</i>
   </summary>
-  <p>
-  </p>
+  <p>Part 1: Vectors and Matrices</p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=yIWNOktZ3kQ
 " target="_blank"><img src="http://img.youtube.com/vi/yIWNOktZ3kQ/0.jpg" 
 alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: Matrix Multiplication</p>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z-Hc0vtgQog
 " target="_blank"><img src="http://img.youtube.com/vi/z-Hc0vtgQog/0.jpg" 
 alt="Video 2" width="240" height="180" border="10" /></a>

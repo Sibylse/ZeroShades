@@ -99,3 +99,43 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 </details>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Optimization.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Optimization_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Optimization_PELi_S.pdf){: .btn .btn--success .btn--small}
+
+<details>
+  <summary>
+    Regression <br>
+  </summary>
+  <p>Part 1: The Regression Objective</p>
+  <ul>
+        <li>Formal regression task definition</li>
+        <li>Affine regression functions</li>
+        <li>Polynomial regression functions</li>
+        <li>Radial Basis regression functions</li>
+    </ul>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=mQ8x9D7uYsQ
+" target="_blank"><img src="http://img.youtube.com/vi/mQ8x9D7uYsQ/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: Regression Optimization</p>
+  <ul>
+        <li>Residual Sum of Squares (RSS)</li>
+        <li>Design matrix</li>
+        <li>Solving the regression problem</li>
+        <li>The set of global regression minimizers</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QAK1yRj8Tws
+" target="_blank"><img src="http://img.youtube.com/vi/QAK1yRj8Tws/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: The Bias-Variance Tradeoff in Regression</p>
+  <ul>
+        <li>Evaluating the regression model</li>
+        <li>The Mean Squared Error (MSE)</li>
+        <li>Splitting in test- and training dataset</li>
+        <li>The Expected Prediction Error (EPE)</li>
+        <li>Bias, variance and noise of a regression model and the bias-variance tradeoff</li>
+        <li>Cross-validation</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=is-Ovf8irpk
+" target="_blank"><img src="http://img.youtube.com/vi/is-Ovf8irpk/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Regression.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Regression_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Regression_PELi_S.pdf){: .btn .btn--success .btn--small}
+

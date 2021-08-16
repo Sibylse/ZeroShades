@@ -27,4 +27,4 @@ alt="Video 3" width="240" height="180" border="10" /></a>
 alt="Video 4" width="240" height="180" border="10" /></a>
 </details>
 
-[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_LinearAlgebra.pdf){: .btn .btn--primary .btn--small} [PELi](/assets/documents/DMML_LinearAlgebra_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/assets/documents/DMML_LinearAlgebra_PELi_S.pdf){: .btn .btn--warning .btn--small}
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_LinearAlgebra.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_LinearAlgebra_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_LinearAlgebra_PELi_S.pdf){: .btn .btn--success .btn--small}

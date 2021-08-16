@@ -277,4 +277,38 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_kMeans.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_kMeans_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_kMeans_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_kmeans.ipynb){: .btn .btn--warning .btn--small} 
 
+<details>
+  <summary>
+    Nonconvex Clustering<br>
+    <i>kernel k-means - spectral clustering - similarity graph</i>
+  </summary>
+  <p>Part 1: Kernel k-means</p>
+  <ul>
+        <li>The kernel trick</li>
+        <li>RBF kernels</li>
+        <li>Optimization challenges</li>
+    </ul>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=HHhI_9mFsJI
+" target="_blank"><img src="http://img.youtube.com/vi/HHhI_9mFsJI/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: Spectral Clustering</p>
+  <ul>
+        <li>Similarity graph representation of the data</li>
+        <li>Minimizing the graph cut</li>
+        <li>Graph Laplacians</li>
+        <li>Solving spectral clustering via k-means</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Eryh9slVnRE
+" target="_blank"><img src="http://img.youtube.com/vi/Eryh9slVnRE/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: Notebook</p>
+  <ul>
+        <li>Visualizing the eigendecomposition of the graph Laplacian</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7fDl25i0Nxs
+" target="_blank"><img src="http://img.youtube.com/vi/7fDl25i0Nxs/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+</details>
+
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Nonconvex_Clustering.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Nonconvex_Clustering_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Nonconvex_Clustering_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_Nonconvex_Clustering.ipynb){: .btn .btn--warning .btn--small} 
 

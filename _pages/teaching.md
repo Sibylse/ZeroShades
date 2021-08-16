@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 comments: true
 ---
-I created the following lectures for a Bachelor level course about data mining and machine learning at TU/e.
+I created the following lectures for a Bachelor level course about data mining and machine learning at TU/e. For every lecture, there are videos (to see them expand the corresponding lecture item), slides and a Proofs, Exercises and Literature (PELi) document.
 <details>
   <summary>
     Linear Algebra - Recap <br>

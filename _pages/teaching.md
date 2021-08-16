@@ -182,5 +182,48 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Regularization.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Regularization_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Regularization_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_Regularization.ipynb){: .btn .btn--warning .btn--small} 
 
+<details>
+  <summary>
+    Recommender Systems and Dimensionality Reduction <br>
+  </summary>
+  <p>Part 1: The Rank-r Matrix Factorization Problem</p>
+  <ul>
+        <li>Summarizing user behavior via a matrix product</li>
+        <li>The matrix factorization objective</li>
+        <li>Truncated SVD as the solver for the rank-r MF problem</li>
+        <li>Nonconvexity of the objective</li>
+    </ul>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3hEmvFTJGFw
+" target="_blank"><img src="http://img.youtube.com/vi/3hEmvFTJGFw/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: Matrix Completion</p>
+  <ul>
+        <li>Handling missing values in low-rank MFs</li>
+        <li>Interpretation of the factorization in the scope of movie recommendations</li>
+        <li>A Netflix prize-winning approach for matrix completion</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j9hfOlIY1mg
+" target="_blank"><img src="http://img.youtube.com/vi/j9hfOlIY1mg/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: Principal Components Analysis (PCA)</p>
+  <ul>
+        <li>Finding good low-dimensional representations of the data</li>
+        <li>Finding the directions of maximum variance in the data</li>
+        <li>Solving the objective of PCA by means of the truncated SVD</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qAMvT9Se36E
+" target="_blank"><img src="http://img.youtube.com/vi/qAMvT9Se36E/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+  <p>Part 4: Notebook</p>
+  <ul>
+        <li>Visualization of SVD</li>
+        <li>Computing the variance of the data in a direction</li>
+        <li>Visualization of PCA projections</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=D0pZ8qgsx54
+" target="_blank"><img src="http://img.youtube.com/vi/D0pZ8qgsx54/0.jpg" 
+alt="Video 4" width="240" height="180" border="10" /></a>
+</details>
 
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_RecSys_PCA.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_RecSys_PCA_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_RecSys_PCA_PELi_S.pdf){: .btn .btn--success .btn--small} [Notebook](/ZeroShades/assets/documents/DMML_RecSys_PCA.ipynb){: .btn .btn--warning .btn--small} 
 

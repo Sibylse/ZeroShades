@@ -54,3 +54,48 @@ alt="Video 4" width="240" height="180" border="10" /></a>
 </details>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_LinearAlgebra.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_LinearAlgebra_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_LinearAlgebra_PELi_S.pdf){: .btn .btn--success .btn--small}
+
+<details>
+  <summary>
+    Optimization <br>
+  </summary>
+  <p>Part 1: FONC & SONC</p>
+  <ul>
+        <li>Unconstrained optimization objectives</li>
+        <li>First Order Necessary Condition (FONC) for minimizers</li>
+        <li>Second Order Necessary Condition (SONC) for minimizers</li>
+        <li>Finding stationary points of smooth functions</li>
+    </ul>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=xcriyhPfEro
+" target="_blank"><img src="http://img.youtube.com/vi/xcriyhPfEro/0.jpg" 
+alt="Video 1" width="240" height="180" border="10" /></a>
+  <p>Part 2: Numerical Optimization</p>
+  <ul>
+        <li>Constrained optimization objectives</li>
+        <li>Gradient Descent</li>
+        <li>Coordinate Descent</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eqUoLPsrCaE
+" target="_blank"><img src="http://img.youtube.com/vi/eqUoLPsrCaE/0.jpg" 
+alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: Convexity</p>
+  <ul>
+        <li>Convex sets</li>
+        <li>Convex functions</li>
+        <li>Convex optimization problems</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j_zM7845nus
+" target="_blank"><img src="http://img.youtube.com/vi/j_zM7845nus/0.jpg" 
+alt="Video 3" width="240" height="180" border="10" /></a>
+  <p>Part 4: Computing Gradients</p>
+  <ul>
+        <li>Partial derivatives, the gradient and the Jacobian</li>
+        <li>Linearity of gradients</li>
+        <li>Chain rule</li>
+  </ul>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Y1DA7vJ8XA
+" target="_blank"><img src="http://img.youtube.com/vi/6Y1DA7vJ8XA/0.jpg" 
+alt="Video 4" width="240" height="180" border="10" /></a>
+</details>
+
+[slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Optimization.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Optimization_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Optimization_PELi_S.pdf){: .btn .btn--success .btn--small}

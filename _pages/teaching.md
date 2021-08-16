@@ -12,16 +12,42 @@ I created the following lectures for a Bachelor level course about data mining a
     <i>Some description</i>
   </summary>
   <p>Part 1: Vectors and Matrices</p>
+  <ul>
+    <li>Vector spaces</li> 
+    <li>The transposed of a matrix</li>
+    <li>Symmetric and diagonal matrices</li>
+  </ul>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=yIWNOktZ3kQ
 " target="_blank"><img src="http://img.youtube.com/vi/yIWNOktZ3kQ/0.jpg" 
 alt="Video 1" width="240" height="180" border="10" /></a>
   <p>Part 2: Matrix Multiplication</p>
+  <ul>
+        <li>The inner and outer product of vectors</li>
+        <li>Matrix multiplication: inner and outer product-wise</li>
+        <li>Identity matrix and inverse matrices</li>
+        <li>Transposed of a matrix product</li>
+  </ul>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z-Hc0vtgQog
 " target="_blank"><img src="http://img.youtube.com/vi/z-Hc0vtgQog/0.jpg" 
 alt="Video 2" width="240" height="180" border="10" /></a>
+  <p>Part 3: Vector Norms</p>
+  <ul>
+        <li>The Euclidean norm and the inner product</li>
+        <li>Orthogonal vectors</li>
+        <li>Vector Lp-norms</li>
+  </ul>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AeYInW-Z63w
 " target="_blank"><img src="http://img.youtube.com/vi/AeYInW-Z63w/0.jpg" 
 alt="Video 3" width="240" height="180" border="10" /></a>
+  <p>Part 4: Matrix Norms</p>
+  <ul>
+        <li>Matrix Lp-norms and the operator norm</li>
+        <li>Orthogonal matrices</li>
+        <li>Orthogonal invariance of matrix norms</li>
+        <li>The trace</li>
+        <li>Binomial formulas for norms</li>
+        <li>Singular Value Decomposition and invertibility of a matrix</li>
+  </ul>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mupvSmwKnf4
 " target="_blank"><img src="http://img.youtube.com/vi/mupvSmwKnf4/0.jpg" 
 alt="Video 4" width="240" height="180" border="10" /></a>

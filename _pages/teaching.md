@@ -136,6 +136,7 @@ alt="Video 2" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=is-Ovf8irpk
 " target="_blank"><img src="http://img.youtube.com/vi/is-Ovf8irpk/0.jpg" 
 alt="Video 3" width="240" height="180" border="10" /></a>
+</details>
 
 [slides]({{ site.url }}{{ site.baseurl }}/assets/documents/DMML_Regression.pdf){: .btn .btn--primary .btn--small} [PELi](/ZeroShades/assets/documents/DMML_Regression_PELi.pdf){: .btn .btn--success .btn--small} [PELi Solutions](/ZeroShades/assets/documents/DMML_Regression_PELi_S.pdf){: .btn .btn--success .btn--small}
 

@@ -116,7 +116,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "TU/e Website"
       icon: "fas fa-fw fa-link"
       url: "https://research.tue.nl/en/persons/sibylle-hess"
     - label: "Twitter"

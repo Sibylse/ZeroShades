@@ -26,11 +26,12 @@ f(x+y)-f(x) &= g(1)-g(0)\\
 \end{align*}
 $$
 From the descent lemma follows that using a stepsize $\alpha < \frac{2}{L}$ results in a guaranteed decrease of gradient descent steps. 
-This is because we have according to the descent lemma we have
+This is because we have according to the descent lemma:
 $$
 \begin{align*}
 f(x-\alpha\nabla f(x))&\leq f(x) -\alpha\lVert \nabla f(x)\rVert^2 + \frac{L}{2}\lVert y\rVert^2\\
 &= f(x)+\alpha\left(\frac{L}{2}\alpha - 1\right)\lVert \nabla f(x)\rVert^2
 \end{align*}
-$$
+$$    
+
 From the last inequality follows that we decrease the objective with every gradient descent step if $\alpha<\frac{L}{2}$.

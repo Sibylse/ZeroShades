@@ -8,19 +8,19 @@ hidden: true
 ---
 The descent lemma is _the_ reason why the inverse Lipschitz constant of the gradient gives us a good stepsize. It goes as follows:     
 *Descent Lemma*    
-Let $f:\mathdd{R}^d\rightarrow \mathbb{R}$ be a continously differentiable function whose gradient $\nabla f$ is Lipschitz continuous with constant $L$. Then,
-\[f(x+y)\leq f(x)+y^\top\nabla f(x) +\frac{L}{2}\lVert y\rVert^2.\]
+Let $f:\mathbb{R}^d\rightarrow \mathbb{R}$ be a continously differentiable function whose gradient $\nabla f$ is Lipschitz continuous with constant $L$. Then,
+$$f(x+y)\leq f(x)+y^\top\nabla f(x) +\frac{L}{2}\lVert y\rVert^2.$$
 _Proof_: We denote with $g(\alpha)=f(x+\alpha y)$. Then we have:
 $$
 \begin{align*}
 f(x+y)-f(x) &= g(1)-g(0)\\
-&= \int_0^1 \frac{dg(\alpha)}{d\alpha} d\alpha\\
-&= \int_0^1 \frac{d}{d\alpha} f(x+\alpha y)d\alpha\\
-&= \int_0^1 y^\top \nabla f(x+\alpha y)d\alpha\\
-&= \int_0^1 y^\top \nabla f(x+\alpha y) -y^\top +y^\top\nabla f(x)d\alpha\\
-&\leq \left\lvert \int_0^1 y^\top(\nabla f(x+\alpha y)-\nabla f(x))d\alpha\right\rvert + \int_0^1y^\top\nabla f(x)d\alpha\\
-&\leq \int_0^1\lVert y\rVert\lVert\nabla f(x+\alpha y)-\nabla f(x)\rVertd\alpha + y^\top\nabla f(x)\\
-&\leq \lVert y\rVert L\int_0^1 \lVert x+\alpha y-x\rVert d\alpha + y^\top\nabla f(x)\\
+&= \int_0^1 \frac{\mathrm{d}g(\alpha)}{\mathrm{d}\alpha} \mathrm{d}\alpha\\
+&= \int_0^1 \frac{\mathrm{d}}{\mathrm{d}\alpha} f(x+\alpha y)\mathrm{d}\alpha\\
+&= \int_0^1 y^\top \nabla f(x+\alpha y)\mathrm{d}\alpha\\
+&= \int_0^1 y^\top \nabla f(x+\alpha y) -y^\top +y^\top\nabla f(x)\mathrm{d}\alpha\\
+&\leq \left\lvert \int_0^1 y^\top(\nabla f(x+\alpha y)-\nabla f(x))\mathrm{d}\alpha\right\rvert + \int_0^1y^\top\nabla f(x)\mathrm{d}\alpha\\
+&\leq \int_0^1\lVert y\rVert\lVert\nabla f(x+\alpha y)-\nabla f(x)\rVert\mathrm{d}\alpha + y^\top\nabla f(x)\\
+&\leq \lVert y\rVert L\int_0^1 \lVert x+\alpha y-x\rVert \mathrm{d}\alpha + y^\top\nabla f(x)\\
 &= \lVert y\rVert^2 L\frac12 + y^\top\nabla f(x)
 \end{align*}
 $$

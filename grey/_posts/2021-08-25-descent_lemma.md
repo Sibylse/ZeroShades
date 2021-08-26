@@ -6,11 +6,12 @@ mathjax: true
 subtitle: The inverse Lipschitz constant as stepsize
 hidden: true
 ---
-The descent lemma is _the_ reason why the inverse Lipschitz constant of the gradient gives us a good stepsize. It goes as follows:     
+The descent lemma is _the_ reason why the inverse Lipschitz constant of the gradient gives us a good stepsize. It goes as follows: 
+
 **Descent Lemma**    
 Let $f:\mathbb{R}^d\rightarrow \mathbb{R}$ be a continously differentiable function whose gradient $\nabla f$ is Lipschitz continuous with constant $L$. Then,
 $$f(x+y)\leq f(x)+y^\top\nabla f(x) +\frac{L}{2}\lVert y\rVert^2.$$
-{: .notice}
+{: .notice--primary}
 _Proof_: We denote with $g(\alpha)=f(x+\alpha y)$. Then we have:
 $$
 \begin{align*}

@@ -121,7 +121,7 @@ author:
       url: "https://research.tue.nl/en/persons/sibylle-hess"
     - label: "CV"
       icon: "far fa-file-pdf"
-      url: <a href="https://github.com/Sibylse/ZeroShades/blob/master/assets/documents/cv_17.pdf" target="_blank">PDF.</a> 
+      url: <embed src="https://github.com/Sibylse/ZeroShades/blob/master/assets/documents/cv_17.pdf" type="application/pdf" />
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

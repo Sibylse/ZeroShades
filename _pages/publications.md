@@ -40,7 +40,7 @@ comments: false
     We apply proximal optimization to learn an ensemble of small decision trees (called shrubs) in a streaming setting. With this approach, we are able to maintain the effectiveness of decision tree ensembles (being able to adapt to changes in the data) in a memory-efficient model. The amount of available memory can be steered by the maximum number of decision shrubs that compose the ensemble. The composition of the decision shrubs is learned via proximal optimization, which yields theoretically guaranteed optimality properties on the derived selection of shrubs. This makes our approach suitable for resource constrained applications. This is also reflected in our experimental evaluation, showing that our Shrub Ensembles retain an excellent performance even when only little memory is available. 
   </p>
 </details>
-[arXiV](https://arxiv.org/pdf/2112.03723.pdf){: .btn .btn--primary .btn--small} [publication](https://ojs.aaai.org/index.php/AAAI/article/view/20560){: .btn .btn--success .btn--small} [Python code]([https://github.com/Sibylse/Broccoli](https://github.com/sbuschjaeger/se-online)){: .btn .btn--warning .btn--small} 
+[arXiV](https://arxiv.org/pdf/2112.03723.pdf){: .btn .btn--primary .btn--small} [publication](https://ojs.aaai.org/index.php/AAAI/article/view/20560){: .btn .btn--success .btn--small} [Python code]([ https://github.com/sbuschjaeger/se-online](https://github.com/sbuschjaeger/se-online)){: .btn .btn--warning .btn--small} 
 <details>
   <summary> 
    k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities <br>

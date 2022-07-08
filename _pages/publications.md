@@ -31,7 +31,6 @@ comments: false
 [arXiV](https://arxiv.org/abs/1906.09722){: .btn .btn--primary .btn--small} [publication](https://link.springer.com/article/10.1007/s10618-017-0508-z){: .btn .btn--success .btn--small} [C++ code](https://bitbucket.org/np84/paltiling/src/master/){: .btn .btn--warning .btn--small}
 
 ## Conference Publications:
-
 <details>
   <summary> 
     Shrub Ensembles for Online Classification <br>
@@ -42,6 +41,7 @@ comments: false
   </p>
 </details>
 [arXiV](https://arxiv.org/pdf/2112.03723.pdf){: .btn .btn--primary .btn--small} [publication](https://ojs.aaai.org/index.php/AAAI/article/view/20560){: .btn .btn--success .btn--small} [Python code]([https://github.com/Sibylse/Broccoli](https://github.com/sbuschjaeger/se-online)){: .btn .btn--warning .btn--small} 
+<details>
   <summary> 
    k is the Magic Number — Inferring the Number of Clusters Through Nonparametric Concentration Inequalities <br>
     <i>Sibylle Hess, and Wouter Duivesteijn @ ECML PKDD 2019</i>

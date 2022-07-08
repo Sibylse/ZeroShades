@@ -21,7 +21,7 @@ comments: false
 <details>
   <summary>
     The PRIMPING routine — Tiling through proximal alternating linearized minimization <br>
-    <i>Sibylle Hess, Katharina Morik, and Nico Piatkowski @ Data Mining and Knowledge Discovery (DAMI) 2017</i>
+    <i>Sibylle Hess, Katharina Morik, and Nico Piatkowski @ Data Mining and Knowledge Discovery (DAMI) 2022</i>
   </summary>
   <p>
   The Primping Routine introduces a novel optimization procedure for the combinatorial problem of Boolean Matrix Factorization (BMF), based on recent advances in nonconvex optimization. The proposed procedure has been the first to enable the highly parallel implementation of a BMF algorithm on Graphics Processing Units (GPUs), replacing the so far used heuristic procedures. Furthermore, a minimum description length based criterion is introduced which enables an accurate automatic determination of the number of clusters. The introduced proximal operator for binary optimization has been extended for integer optimization in the scope of estimating exponential families 

@@ -4,10 +4,12 @@ main:
     url: /pubs/
   - title: "Teaching"
     url: /teaching/
-  - title: "The Binary Zone"
-    url: /binary/
-  - title: "The Grey Area"
-    url: /grey/
+  - title: "News"
+    url: /news/
+  #- title: "The Binary Zone"
+  #  url: /binary/
+  #- title: "The Grey Area"
+  #  url: /grey/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

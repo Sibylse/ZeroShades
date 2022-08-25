@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://research.tue.nl/en/persons/sibylle-hess"
     - label: "One-page CV"
-      icon: "far fa-file-pdf"
+      icon: "fas fa-file-alt"
       url: "https://github.com/Sibylse/ZeroShades/blob/master/assets/documents/cv_17.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

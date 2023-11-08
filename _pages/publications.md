@@ -33,6 +33,16 @@ comments: false
 ## Conference Publications:
 <details>
   <summary> 
+    Scoring Rule Nets: Beyond Mean Target Prediction in Multivariate Regression <br>
+    <i>Daan Roordink, Sibylle Hess, Katharina Morik @ ECML PKDD 2023</i>
+  </summary>
+  <p>
+    We propose a new multivariate scoring rule, the Conditional Continuous Ranked Probability Score (CCRPS) which is a multivariate strictly proper scoring rule that extends on the Continuous Ranked Probability Score (CRPS). Scoring rules can be seen as loss functions that incorporates calibration and precision of a probabilistic prediction. Hence, scoring rules fidn application among other things in probabilistic regression. A standard way to train probabilistic regression models is to use a maximum likelihood estimation (MLE). However, MLE sometimes overestimate variance to an unacceptable degree. This is particularly a problem in the multivariate domain, and univariate models often optimize the CRPS. Yet, in the multivariate domain, no such alternative to MLE has yet been widely accepted. The Energy Score – the most investigated alternative – notoriously lacks closed-form expressions and sensitivity to the correlation between target variables. In response, we propose Conditional CRPS, for which we prove desirable theoretical properties, such as strict propriety. We show that closed-form expressions exist for popular distributions and illustrate their sensitivity to correlation. We then show in a variety of experiments on both synthetic and real data, that Conditional CRPS often outperforms MLE, and produces results comparable to state-of-the-art non-parametric models, such as Distributional Random Forest (DRF).
+  </p>
+</details>
+[publication](https://link.springer.com/chapter/10.1007/978-3-031-43415-0_12){: .btn .btn--success .btn--small} [Tensorflow code](https://github.com/DaanR/scoringrule_networks){: .btn .btn--warning .btn--small} 
+<details>
+  <summary> 
     Shrub Ensembles for Online Classification <br>
     <i>Sebastian Buschjäger, Sibylle Hess, Katharina Morik @ AAAI 2022</i>
   </summary>
@@ -117,7 +127,15 @@ comments: false
 </details>
 [publication](https://pure.tue.nl/ws/files/125071574/paper30.pdf){: .btn .btn--success .btn--small}
 
-## Books
+## Books/Chapters
+<details>
+  <summary>
+    Chapter: Matrix Factorization with Binary Constraints @ Machine Learning under Resource Constraints - Volume 1: Fundamentals<br>
+    <i>Sibylle Hess, 2022</i>
+  </summary>
+  <p>I wrote a chapter in this series of books that highlight the results of the three funded periods of the <a> href="https://sfb876.tu-dortmund.de/index.html">SFB 876</a>@TU Dortmund. The chapter summarizes and shortly surveys strategies in optimization subject to binary constraints in the scope of clustering objectives that are based on matrix factorization.</p>
+</details>
+[publication](https://doi.org/10.1515/9783110785944-005){: .btn .btn--success .btn--small}
 <details>
   <summary>
     A Mathematical Theory of Making Hard Decisions: Model Selection and Robustness of Matrix Factorization with Binary Constraints <br>
